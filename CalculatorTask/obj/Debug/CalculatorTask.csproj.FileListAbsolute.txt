@@ -1,0 +1,10 @@
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\bin\Debug\CalculatorTask.exe.config
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\bin\Debug\CalculatorTask.exe
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\bin\Debug\CalculatorTask.pdb
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.csprojAssemblyReference.cache
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.Calculator.resources
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.Properties.Resources.resources
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.csproj.GenerateResource.cache
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.exe
+C:\Users\Fahad Mughal\source\repos\CalculatorTask\obj\Debug\CalculatorTask.pdb
